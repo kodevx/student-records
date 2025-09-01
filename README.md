@@ -8,7 +8,7 @@ Student Management
  - Add new students with details (name, email, phone, department, etc.).
  - View all student records in a paginated and searchable list.
  - Update student details when required.
- - Delete student records safely.
+ - Delete student records.
 
 Data Validation & Error Handling
  - Validates student details on both frontend and backend.
