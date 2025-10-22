@@ -65,3 +65,19 @@ Database (PostgreSQL) → Stores student data persistently.
 Flow Example:
 
 User fills out "Add Student" form → Next.js sends POST request to /students → Spring Boot validates & stores in PostgreSQL → Confirmation returned → UI updates with new student record.
+
+
+🔹 UI/UX Design 
+
+- Homepage
+## ![alt text](https://github.com/kodevx/student-records/blob/main/public/screenshots/home.png?raw=true)
+
+- Search Page
+## ![alt text](https://github.com/kodevx/student-records/blob/main/public/screenshots/search_page.png?raw=true)
+
+- Update Student Page
+## ![alt text](https://github.com/kodevx/student-records/blob/main/public/screenshots/update_student.png?raw=true)
+
+- Add Student Page
+## ![alt text](https://github.com/kodevx/student-records/blob/main/public/screenshots/add_student.png?raw=true)
+
